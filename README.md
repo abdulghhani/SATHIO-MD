@@ -6,4 +6,4 @@
 
 | <a href="https://github.com/abdulghhani/SATHIO-MD"><img src="https://telegra.ph/file/c670792adfe0d44dc5a99.jpg" width=200 height=200></a> | <a href="https://github.com/arkhan998/MALIK-MD"><img src="https://telegra.ph/file/dce77f7538019d05afe65.jpg" width=200 height=200></a>
 
-  **[SATHIO-MD](https://github.com/abdulghhani/SATHIO-MD)**</br>Founder & Developer</br>  **[ATA-UR-REHMAN](https://github.com/arkhan998)**
+  **[SATHIO-MD](https://github.com/abdulghhani/)**</br>Founder & Developer</br>  **[ATA-UR-REHMAN](https://github.com/arkhan998/)**
